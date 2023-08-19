@@ -22,7 +22,11 @@ Now we split the data in two sets x_train and y_train as shown in the figure.
 Now repeat the same steps for test dataset.
 # Model Generation
 Now we import linear regression and define the model as linear regression and predict the house price and save it in a excel sheet as shown in the figure below.
+
+
 ![output-1](https://github.com/TejashKatuwal/House-Price-Prediction/assets/118622724/560c0c7d-7769-4c55-8155-bc0f587b690a)
+
+
 ![output-2](https://github.com/TejashKatuwal/House-Price-Prediction/assets/118622724/ce5b3353-ab75-4380-be0e-098b26d02f92)
 
 
